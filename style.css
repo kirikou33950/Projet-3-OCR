@@ -1,0 +1,12 @@
+header{
+    width: 100%;
+    height: auto;
+    background-color: rgb(145, 9, 9);
+    justify-content: space-around;
+    display: flex;
+    padding: 20px;
+}
+h1{
+    text-align: cemter;
+    padding: 20px;
+}
